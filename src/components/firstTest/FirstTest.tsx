@@ -29,9 +29,8 @@ const changePageModes=()=>{
         
     } catch (error) {
         console.log(error)
-        console.log(error)
-        console.log(error)
-        console.log(error)
+        console.log(error,1111111111)
+   
     }
     
 }
